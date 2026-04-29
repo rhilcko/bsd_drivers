@@ -1,3 +1,4 @@
+/* testing diff */
 /*
 * hello_world.c - Simple FreeBSD kernel module
 * Print messages when loaded and unloaded
