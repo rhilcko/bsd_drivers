@@ -13,6 +13,7 @@ A simple "Hello, kernel world!" module for FreeBSD 14.3
 ## How to load/unload:
 
 > ``#`` kldload ./hello_world.ko
+
 > ``#`` kldunload hello_world
 
 ## Notes:
